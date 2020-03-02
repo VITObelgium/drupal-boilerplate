@@ -1,6 +1,6 @@
 # Config translation example
 
-This module provides an example of how to create a configuration form in a custom module and make it out-of-the-box translatable. 
+This module provides an example of how to create a configuration form in a custom module and make it translatable out-of-the-box. 
 
 ## How to
 
