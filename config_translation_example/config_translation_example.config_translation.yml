@@ -1,0 +1,5 @@
+config_translation_example.config:
+  title: 'Configuration translation example settings'
+  base_route_name: config_translation_example.config
+  names:
+    - 'config_translation_example.adminsettings'

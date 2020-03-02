@@ -1,0 +1,7 @@
+config_translation_example.adminsettings:
+  type: config_object
+  label: 'Configuration translation example settings'
+  mapping:
+    example:
+      type: text
+      label: 'Example text'

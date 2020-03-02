@@ -1,0 +1,9 @@
+name: Config translation example module
+description: Example module with translatable admin form
+package: Custom
+version: '8.x-1.0'
+type: module
+core: 8.x
+dependencies:
+  - drupal:locale
+  - config_translation

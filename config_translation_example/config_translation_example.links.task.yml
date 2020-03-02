@@ -1,0 +1,4 @@
+config_translation_example.adminsettings_tab:
+  route_name: config_translation_example.config
+  title: Settings
+  base_route: config_translation_example.config
