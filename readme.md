@@ -1,6 +1,6 @@
 # Drupal boilerplate code
 
-This repo is used for storing example codes and defaults for typical use cases when developing drupal projects. Code free to use :thumbsup:.
+This repo is used for storing example codes and defaults for common tasks when developing drupal projects. Code free to use :thumbsup:.
 
 ## Config translation example
 
